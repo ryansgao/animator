@@ -3,7 +3,8 @@
 A web app for animating line drawings described by small Gleam programs, built for CS 61A (Fall 2026).
 The app includes an interpreter for a subset of Gleam that runs entirely in the browser.
 
-Live: https://ryansgao.github.io/animator/
+Live: https://ryansgao.github.io/animator/ — opens on the "bloom" drawing; the menu has presets
+(bloom, handwriting, spirograph, title card, then the original examples) to try the extension straight away.
 
 ## Extension: handwriting, curves and colour
 
